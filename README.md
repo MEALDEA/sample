@@ -1,7 +1,7 @@
 sample
-
-A semple repo for POstech students and Interns
 ======
+A semple repo for Postech students and Interns
+
 
 resume
 
@@ -10,7 +10,7 @@ Education
 
 -Baemyeong High school
 
--Postech(Korea university of technology)
+-Postech(University of technology of korea)
 
 -Stony brook NY University for 6 months(2012.07~2012.12)
 
@@ -27,11 +27,23 @@ Skills
 
 -I am a Creative and imaginative person seriously
 
--Excellence english skills (About teps 800 points)
+-Can do C language
 
--Leadership with Experience and Will to be better leader
+-Excellence english skills (About iBT TOFEL 105~110 points)
+
+-Leadership with Experience and Will to be a  better leader
 
 Projects
 ========
 
--I got some brilliant ideas that I want to make 
+In progress
+
+-Designing student community site of postech; poU
+
+-Making a device which let people know How long the plant didn't have water
+
+-Making connection with Seoul University(College of Liberal Studies) and Ewha University(Scranton College) 
+
+with our department(CiTE)
+
+
