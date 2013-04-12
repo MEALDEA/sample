@@ -25,13 +25,11 @@ Publications
 Skills 
 ======
 
--I am a Creative and imaginative person seriously
-
--Can do C language
+-Can do basic C language
 
 -Excellence english skills (About iBT TOFEL 105~110 points)
 
--Leadership with Experience and Will to be a  better leader
+-Leadership with Experience
 
 Projects
 ========
@@ -39,8 +37,6 @@ Projects
 In progress
 
 -Designing student community site of postech; poU
-
--Making a device which let people know How long the plant didn't have water
 
 -Making connection with Seoul University(College of Liberal Studies) and Ewha University(Scranton College) 
 
