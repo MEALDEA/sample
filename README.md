@@ -29,7 +29,7 @@ Skills
 
 -Excellence english skills (About iBT TOFEL 106 points or more)
 
--Leadership with Experience
+-Leadership with experience
 
 Projects
 ========
