@@ -1,6 +1,6 @@
 sample
 ======
-A semple repo for Postech students and Interns
+A sample repo for Postech students and Interns
 
 
 resume
