@@ -27,7 +27,7 @@ Skills
 
 -Can do basic C language
 
--Excellence english skills (About iBT TOFEL 105~110 points)
+-Excellence english skills (About iBT TOFEL 106 points or more)
 
 -Leadership with Experience
 
