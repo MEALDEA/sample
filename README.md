@@ -1,10 +1,9 @@
-sample
-======
-A sample repo for Postech students and Interns
+-parkwonpyo@postech.ac.kr
 
+-park.wonpyo (skype ID)
 
 resume
-
+======
 Education 
 =========
 
